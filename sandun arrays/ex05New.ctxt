@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ex05New
+comment1.params=
+comment1.target=void\ main()
+comment2.params=n\ j
+comment2.target=boolean\ sieve(boolean[],\ int)
+numComments=3
